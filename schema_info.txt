@@ -1,0 +1,136 @@
+[?1049h[22;0;0t[24;1H[?1h=               List of relations
+ Schema |        Name        |   Type   | Owner 
+--------+--------------------+----------+-------
+ public | alarms             | table    | admin
+ public | alarms_id_seq      | sequence | admin
+ public | devices            | table    | admin
+ public | devices_id_seq     | sequence | admin
+ public | kpi_results        | table    | admin
+ public | kpi_results_id_seq | sequence | admin
+ public | tags               | table    | admin
+ public | tags_id_seq        | sequence | admin
+ public | telemetry          | table    | admin
+ public | telemetry_id_seq   | sequence | admin
+(10 rows)
+
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [K::[K\\[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K...skipping...
+               List of relations
+ Schema |        Name        |   Type   | Owner 
+--------+--------------------+----------+-------
+ public | alarms             | table    | admin
+ public | alarms_id_seq      | sequence | admin
+ public | devices            | table    | admin
+ public | devices_id_seq     | sequence | admin
+ public | kpi_results        | table    | admin
+ public | kpi_results_id_seq | sequence | admin
+ public | tags               | table    | admin
+ public | tags_id_seq        | sequence | admin
+ public | telemetry          | table    | admin
+ public | telemetry_id_seq   | sequence | admin
+(10 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[K[7mNo next tag  (press RETURN)[27m[24;1H[K[K-[K[7mCannot change the -p (--pattern) option  (press RETURN)[27m[24;1H[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7mNo next tag  (press RETURN)[27m[24;1H[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K...skipping...
+               List of relations
+ Schema |        Name        |   Type   | Owner 
+--------+--------------------+----------+-------
+ public | alarms             | table    | admin
+ public | alarms_id_seq      | sequence | admin
+ public | devices            | table    | admin
+ public | devices_id_seq     | sequence | admin
+ public | kpi_results        | table    | admin
+ public | kpi_results_id_seq | sequence | admin
+ public | tags               | table    | admin
+ public | tags_id_seq        | sequence | admin
+ public | telemetry          | table    | admin
+ public | telemetry_id_seq   | sequence | admin
+(10 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[Kset mark: ...skipping...
+               List of relations
+ Schema |        Name        |   Type   | Owner 
+--------+--------------------+----------+-------
+ public | alarms             | table    | admin
+ public | alarms_id_seq      | sequence | admin
+ public | devices            | table    | admin
+ public | devices_id_seq     | sequence | admin
+ public | kpi_results        | table    | admin
+ public | kpi_results_id_seq | sequence | admin
+ public | tags               | table    | admin
+ public | tags_id_seq        | sequence | admin
+ public | telemetry          | table    | admin
+ public | telemetry_id_seq   | sequence | admin
+(10 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [K::[K\\[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7mNo next tag  (press RETURN)[27m[24;1H[K[K-[K[7mCannot change the -p (--pattern) option  (press RETURN)[27m[24;1H[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7mNo next tag  (press RETURN)[27m[24;1H[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K...skipping...
+               List of relations
+ Schema |        Name        |   Type   | Owner 
+--------+--------------------+----------+-------
+ public | alarms             | table    | admin
+ public | alarms_id_seq      | sequence | admin
+ public | devices            | table    | admin
+ public | devices_id_seq     | sequence | admin
+ public | kpi_results        | table    | admin
+ public | kpi_results_id_seq | sequence | admin
+ public | tags               | table    | admin
+ public | tags_id_seq        | sequence | admin
+ public | telemetry          | table    | admin
+ public | telemetry_id_seq   | sequence | admin
+(10 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[Kset mark: ...skipping...
+               List of relations
+ Schema |        Name        |   Type   | Owner 
+--------+--------------------+----------+-------
+ public | alarms             | table    | admin
+ public | alarms_id_seq      | sequence | admin
+ public | devices            | table    | admin
+ public | devices_id_seq     | sequence | admin
+ public | kpi_results        | table    | admin
+ public | kpi_results_id_seq | sequence | admin
+ public | tags               | table    | admin
+ public | tags_id_seq        | sequence | admin
+ public | telemetry          | table    | admin
+ public | telemetry_id_seq   | sequence | admin
+(10 rows)
+
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t
